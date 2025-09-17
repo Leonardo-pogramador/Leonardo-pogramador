@@ -1,6 +1,10 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&width=650&height=30&lines=print(+%22Olá+Garotos(as)!+de+programa,+bem+vindos+ao+Git+Hub%22+))](https://git.io/typing-svg)
+
 <p align="center">
   <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="500"/>
 </p>
+
+
 
 # 👋 Olá, eu sou o Leonardo!  
 
