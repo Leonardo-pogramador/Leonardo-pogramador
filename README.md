@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="500"/>
+</p>
+
 # 👋 Olá, eu sou o Leonardo!  
 
 🎓 Tenho **18 anos** e sou estudante de **Tecnologia da Informação (T.I)**.  
@@ -20,14 +24,16 @@
 
 ---
 
-## 📈 Objetivos no GitHub  
-Aqui vou compartilhar meus projetos, práticas e estudos, desde pequenos scripts em Python até projetos mais avançados com o tempo.  
+## 🌟 Qualidades  
+- Proatividade  
+- Dedicação  
+- Comprometimento  
+- Atenção  
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="500"/>
-</p>
+## 📈 Objetivos no GitHub  
+Aqui vou compartilhar meus projetos, práticas e estudos, desde pequenos scripts em Python até projetos mais avançados com o tempo.  
 
 ---
 
